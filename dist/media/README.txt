@@ -1,0 +1,2 @@
+Place your own private birthday photos and optional music file here. See the root README.md and src/config/birthday.js for filenames and paths.
+c:\Users\SHARUN\Downloads\Kadavul_Thantha__Charulatha_2012__Priyamani__Sundar_C_Babu__Madhan_Karky__Female.mp3
